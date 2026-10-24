@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Jose 👋
 
-<!--
-**josemsanchez/josemsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT professional based in Oxford, UK, with a background in Computer Engineering, IT infrastructure and software development.
 
-Here are some ideas to get you started:
+I currently work in IT infrastructure and systems support, while developing websites, exploring cloud technologies and building practical digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Areas of interest
+
+- **IT Infrastructure:** Networking, systems administration, virtualisation and cloud technologies.
+- **Web Development:** HTML, CSS, JavaScript and static website development.
+- **Automation:** Scripting, APIs and workflow automation.
+- **Software Development:** Web applications, SaaS products and practical digital tools.
+
+### 🚀 Current projects
+
+- **African School** — Migrating an existing website to a modern static architecture.
+- **Hiking & Others** — Developing a website for a hiking and social community.
+- **Personal projects** — Exploring application development and future SaaS products.
+
+### 🌱 Currently learning
+
+- Microsoft Azure and advanced systems administration.
+- Modern web development and cloud deployment.
+- SaaS architecture and application development.
+
+### 📍 About me
+
+Based in Oxford, United Kingdom.
+
+Interested in combining infrastructure knowledge with software development to create reliable, useful digital solutions.
+
+### ⚡ Beyond tech
+
+Outside of tech, I enjoy hiking, live music, dancing, exploring new places and playing the piano.
